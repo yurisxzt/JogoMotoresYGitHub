@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6602084578671708804}
   - component: {fileID: 8999353086769527546}
-  - component: {fileID: 7544093735772178825}
+  - component: {fileID: -3904647353058949384}
   m_Layer: 0
   m_Name: Square
   m_TagString: chao
@@ -88,7 +88,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!61 &7544093735772178825
+--- !u!61 &-3904647353058949384
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

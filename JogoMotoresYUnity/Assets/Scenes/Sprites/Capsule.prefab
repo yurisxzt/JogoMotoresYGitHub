@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7129013577991115096}
   - component: {fileID: -5114662647696119874}
   - component: {fileID: -4929793148860968703}
-  - component: {fileID: -633747217773154777}
+  - component: {fileID: -6459918662499879138}
   m_Layer: 0
   m_Name: Capsule
   m_TagString: Player
@@ -132,7 +132,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!70 &-633747217773154777
+--- !u!70 &-6459918662499879138
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
